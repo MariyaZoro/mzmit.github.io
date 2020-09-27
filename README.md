@@ -1,2 +1,2 @@
 # mzmit.github.io
-Website Project
+Website Project for school
